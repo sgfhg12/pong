@@ -10,7 +10,7 @@ var gameProperties = {
     paddleSegmentsMax: 4,
     paddleSegmentHeight: 4,
     paddleSegmentAngle: 15,
-    paddleTopGap: 22,
+    paddleTopGap: 0,
     
     ballVelocity: 500,
     ballRandomStartingAngleLeft: [-120, 120],
